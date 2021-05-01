@@ -1,0 +1,14 @@
+crate:
+2D Game Art for Free - opengameart.org
+
+docks_bg:
+shutterstock.com
+
+ground_tile, ground_bg:
+You're Perfect Studio - opengameart.org
+
+player:
+Fedir Popov - dreamstime.com
+
+wall:
+Philippe Groarke - opengameart.org
